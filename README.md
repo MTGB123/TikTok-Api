@@ -12,11 +12,11 @@ These sponsors have paid to be placed here and beyond that I do not have any aff
     <p>
     <a href="https://tikapi.io/?ref=davidteather" target="_blank">
 			<div>
-				<img src="https://raw.githubusercontent.com/davidteather/TikTok-Api/master/imgs/logo128.png" width="100" alt="TikApi">
+				<img src="https://raw.githubusercontent.com/davidteather/TikTok-Api/master/imgs/tikapi.png" width="100" alt="TikApi">
 			</div>
 			<b></b>
 			<div>
-				TikApi is a paid TikTok API service providing an full out-of-the-box solution for developers, trusted by 100+ companies.
+				<b>TikAPI</b> is a paid TikTok API service providing a full out-of-the-box solution, making life easier for developers — trusted by 500+ companies.
 			</div>
 		</a>
     </p>
@@ -85,6 +85,8 @@ You can find the full documentation [here](https://davidteather.github.io/TikTok
 
 To get started using this api follow the instructions below.
 
+**Note:** If you want to learn how to web scrape websites check my [free and open-source course for learning everything web scraping](https://github.com/davidteather/everything-web-scraping)
+
 ### How to Support The Project
 * Star the repo 😎
 * Consider [sponsoring](https://github.com/sponsors/davidteather) me on GitHub
@@ -124,6 +126,8 @@ Please don't open an issue if you're experiencing one of these just comment if t
 ## Quick Start Guide
 
 Here's a quick bit of code to get the most recent trending videos on TikTok. There's more examples in the [examples](https://github.com/davidteather/TikTok-Api/tree/master/examples) directory.
+
+**Note:** If you want to learn how to web scrape websites check my [free and open-source course for web scraping](https://github.com/davidteather/web-scraping-with-reverse-engineering)
 
 ```py
 from TikTokApi import TikTokApi
